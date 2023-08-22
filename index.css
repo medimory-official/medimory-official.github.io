@@ -2,10 +2,6 @@
     margin : 25px 15px;
 }
 
-.logo {
-    float : left;
-}
-
 @media screen and (min-width : 1000px) {
     .page_max_width {
         margin : 25px auto;
