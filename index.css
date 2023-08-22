@@ -1,1 +1,31 @@
-d
+.page_max_width {
+    margin : 15px;
+}
+
+.title {
+    text-align : center;
+}
+
+section {
+    margin-top : 20px;
+}
+
+.page_area {
+    display : block;
+    color : black;
+    text-decoration : none;
+}
+
+.page_area:hover {
+    background-color : #F2F2F2;
+}
+
+.page_title {
+    font-weight : bold;
+    font-size : 24px;
+    margin-bottom : 10px;
+}
+
+.page_info {
+    color : darkgray;
+}
