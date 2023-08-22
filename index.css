@@ -1,5 +1,16 @@
 .page_max_width {
-    margin : 15px;
+    margin : 25px 15px;
+}
+
+.logo {
+    float : left;
+}
+
+@media screen and (min-width : 1000px) {
+    .page_max_width {
+        margin : 25px auto;
+        width : 1000px;
+    }
 }
 
 .title {
@@ -27,5 +38,5 @@ section {
 }
 
 .page_info {
-    color : #6E6E6E;
+    color : darkgray;
 }
