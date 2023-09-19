@@ -9,6 +9,14 @@
     }
 }
 
+.logo {
+    margin : 0;
+    padding-left : 10px;
+    height : var(--nav-height);
+    width : var(--nav-height);
+    float : left;
+}
+
 .title {
     text-align : center;
 }
