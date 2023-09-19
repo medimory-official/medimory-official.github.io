@@ -9,12 +9,17 @@
     }
 }
 
+.logoDiv {
+    height : 40px;
+    width : 115px;
+    display : block;
+    float : left;
+
 .logo {
     margin : 0;
     padding-left : 10px;
     height : 40px;
     width : 115px;
-    float : left;
 }
 
 .title {
