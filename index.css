@@ -19,6 +19,11 @@
 
 .title {
     display : block;
+    text-align : center;
+}
+
+.titleLogo {
+    display : block;
     text-decoration : none;
     color : black;
 }
